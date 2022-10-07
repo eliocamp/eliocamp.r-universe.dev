@@ -1,0 +1,14 @@
+[
+    {
+        "package": "ggnewscale",
+        "url": "https://github.com/eliocamp/ggnewscale"
+    },
+    {
+        "package": "metR",
+        "url": "https://github.com/eliocamp/metR"
+    },
+    {
+        "package": "ggdatasaver",
+        "url": "https://github.com/eliocamp/ggdatasaver"
+    }
+]
