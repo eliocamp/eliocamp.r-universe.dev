@@ -11,4 +11,8 @@
         "package": "ggdatasaver",
         "url": "https://github.com/eliocamp/ggdatasaver"
     }
+    {
+        "package": "rcmip6",
+        "url": "https://github.com/eliocamp/rcmip6"
+    }    
 ]
